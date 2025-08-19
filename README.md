@@ -43,3 +43,5 @@ This repository is made to:
 Feel free to explore and use anything that helps you learn better.  
 Let’s grow together in this journey of **Data Science** 🚀  
 
+# linkedin 
+# https://www.linkedin.com/posts/mayank-bhat_github-mayank-bhatt22ducat-python-in-activity-7363652369986859009-dvNN?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFLaxVkBVrNq2OrMc4hMwx1eTxBrUqLgxR0
